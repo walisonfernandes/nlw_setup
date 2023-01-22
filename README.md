@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Habits é um app que possibilita a inclusão e registros dos hábitos realizados diariamente.
 
-- [Visite o projeto online] (https://walisonfernandes.github.io/nlw_setup)
+- [Visite o projeto online](https://walisonfernandes.github.io/nlw_setup)
 
 ## 🔖 Layout
 
