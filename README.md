@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Habits é um app que possibilita a inclusão e registros dos hábitos realizados diariamente.
 
+- [Visite o projeto online] (https://walisonfernandes.github.io/nlw_setup)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/xpZVxxrNFG58v3W9SITz5H/Habits-(e)-(Community)?node-id=75%3A128&t=zcFeT3mq3lwkgNU4-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
